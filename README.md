@@ -1,2 +1,3 @@
 # rockpaperscissors
 rockpaperscissors
+updating readme
